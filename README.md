@@ -57,7 +57,7 @@ Windows IT administrators and sysadmins who need to build internal GUI tools qui
 
 👉 **[pulsiforms.com](https://pulsiforms.com)**
 
-No install. No signup required to explore. Open in your browser and start building.
+No install.Open in your browser and start building.
 
 -----
 
