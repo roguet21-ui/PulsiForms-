@@ -69,4 +69,4 @@ This repository serves as the public reference and documentation hub.
 
 -----
 
-*Built by a solo developer. Designed for the Windows IT community.*
+*Designed for the Windows IT community.*
